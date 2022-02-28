@@ -4,35 +4,39 @@
 
 <table>
   <tr height="125px">
-    <td align="center" width="120px">
+    <td align="center" width="180px">
       <a href="https://github.com/hean1103"><img src="https://avatars.githubusercontent.com/u/31913535?v=4"/></a>
     </td>
-    <td align="center" width="120px">
+    <td align="center" width="180px">
       <a href="https://github.com/sksy368"><img src="https://avatars.githubusercontent.com/u/75062273?v=4"/></a>
     </td>
-    <td align="center" width="120px">
-      <a href="https://github.com/lyw0192"><img src="https://avatars.githubusercontent.com/u/77774635?v=4"/></a>
+    <td align="center" width="180px">
+      <a href="https://github.com/yewonniii"><img src="https://avatars.githubusercontent.com/u/77774635?v=4"/></a>
     </td>
-    <td align="center" width="120px">
+    <td align="center" width="180px">
       <a href="https://github.com/NEULiee"><img src="https://avatars.githubusercontent.com/u/39167842?v=4"/></a>
     </td>
   </tr>
   <tr height="70px">
-    <td align="center" width="120px">
+    <td align="center" width="180px">
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hean1103" />
-      <a href="https://github.com/hean1103">혜안</a>
+      <br />
+      <a href="https://github.com/hean1103">경혜안</a>
     </td>
-    <td align="center" width="120px">
+    <td align="center" width="180px">
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sksy368" />
-      <a href="https://github.com/sksy368">수연</a>
+       <br />
+      <a href="https://github.com/sksy368">손수연</a>
     </td>
-    <td align="center" width="120px">
+    <td align="center" width="180px">
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=lyw0192" />
-      <a href="https://github.com/lyw0192">예원</a>
+       <br />
+      <a href="https://github.com/yewonniii">이예원</a>
     </td>
-    <td align="center" width="120px">
+    <td align="center" width="180px">
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=asdfz888" />
-      <a href="https://github.com/NEULiee">늘이</a>
+       <br />
+      <a href="https://github.com/NEULiee">하늘이</a>
     </td>
   </tr>
 </table>
