@@ -177,8 +177,6 @@ live4mac
 
 ## 💸 Penalty
 
-<br />
-
 ### 1️⃣ Penalty List
 
 - 스터디 결석 : 5,000원
