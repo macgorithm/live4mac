@@ -3,7 +3,7 @@ package Feb_2022;
 import java.util.*;
 import java.io.*;
 
-public class Main_BJ_17780_새로운게임 {
+public class boj_17780_새로운게임_손수연 {
 	
 	static class ChessMan {
 		int row, column, direction; // 행, 열, 이동방향
