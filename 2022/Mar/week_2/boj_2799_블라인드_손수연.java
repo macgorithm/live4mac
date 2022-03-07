@@ -3,7 +3,7 @@ package Mar_2022.week1;
 import java.util.*;
 import java.io.*;
 
-public class boj_2799_블라인드_손수연 {
+public class boj_2799_블라인드_손수연 { 
 	
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
