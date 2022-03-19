@@ -1,6 +1,6 @@
 ### 📕 Problem
 
-[백준 14889_스타트와 링크](https://www.acmicpc.net/problem/14889)  
+[백준 16234_인구 이동](https://www.acmicpc.net/problem/16234)  
 
 ### 📗 Idea & Algorithm
 
@@ -12,7 +12,7 @@
 
 ### 📕 Problem
 
-[백준 2234_성곽](https://www.acmicpc.net/problem/2234)  
+[백준 9081_단어 맞추기](https://www.acmicpc.net/problem/9081)  
 
 ### 📗 Idea & Algorithm
 
