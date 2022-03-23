@@ -3,7 +3,7 @@ package Mar_2022.week3;
 import java.io.*;
 import java.util.*;
 
-public class boj_16234_인구이동 {
+public class boj_16234_인구이동_손수연 {
 	
 	static int[][] D = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 	

@@ -3,7 +3,7 @@ package Mar_2022.week3;
 import java.io.*;
 import java.util.*;
 
-public class boj_9081_단어맞추기 {
+public class boj_9081_단어맞추기_손수연 {
 
 	public static void main(String[] args) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
