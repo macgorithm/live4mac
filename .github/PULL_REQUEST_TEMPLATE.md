@@ -1,6 +1,6 @@
 ### 📕 Problem
 
-[백준 16234_인구 이동](https://www.acmicpc.net/problem/16234)  
+[프로그래머스_여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)  
 
 ### 📗 Idea & Algorithm
 
@@ -12,7 +12,7 @@
 
 ### 📕 Problem
 
-[백준 9081_단어 맞추기](https://www.acmicpc.net/problem/9081)  
+[프로그래머스_불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)  
 
 ### 📗 Idea & Algorithm
 
