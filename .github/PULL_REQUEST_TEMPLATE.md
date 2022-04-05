@@ -1,6 +1,6 @@
 ### 📕 Problem
 
-[프로그래머스_여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)  
+[백준_11265_끝나지않는파티](https://www.acmicpc.net/problem/11265)  
 
 ### 📗 Idea & Algorithm
 
@@ -12,7 +12,7 @@
 
 ### 📕 Problem
 
-[프로그래머스_불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)  
+[백준_14499_주사위굴리기](https://www.acmicpc.net/problem/14499)  
 
 ### 📗 Idea & Algorithm
 
