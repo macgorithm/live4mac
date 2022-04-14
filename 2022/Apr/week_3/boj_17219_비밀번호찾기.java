@@ -19,7 +19,6 @@ public class boj_17219_비밀번호찾기 {
 		
 		for (int i = 0; i < N; i++) {
 			st = new StringTokenizer(br.readLine());
-			
 			String url = st.nextToken();
 			String pw = st.nextToken()
 ;
