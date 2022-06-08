@@ -20,7 +20,7 @@ func dfs(_ start: Int, _ info: [Int : [Int]]) {
     
     while !stack.isEmpty {
         let cur = stack.removeLast()
-        if visited[cur] { return }
+        if visited[cur] { continue }
         visited[cur] = true
         if let nexts = info[cur] {
             for next in nexts where !visited[next] {
