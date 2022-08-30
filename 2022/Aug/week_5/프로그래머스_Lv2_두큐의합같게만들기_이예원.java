@@ -56,7 +56,7 @@ public class 프로그래머스_Lv2_두큐의합같게만들기_이예원 {
     			sum1 += que2.poll() ;
     		}
     		
-    		//sum1 == sum2
+    		//sum1=sum2
     		else {
     			if(sum1 == midValue) {
                    System.out.println(cnt);
