@@ -1,6 +1,6 @@
 ### 📕 Problem
 
-[프로그래머스_두큐합같게만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)  
+[프로그래머스_메뉴리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)  
 
 ### 📗 Idea & Algorithm
 
@@ -13,7 +13,7 @@
 
 ### 📕 Problem
 
-[백준_21608_상어초등학교](https://www.acmicpc.net/problem/21608)
+[백준_23032_](https://www.acmicpc.net/problem/23032)
 
 ### 📗 Idea & Algorithm
 
