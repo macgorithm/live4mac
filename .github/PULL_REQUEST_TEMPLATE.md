@@ -13,7 +13,7 @@
 
 ### 📕 Problem
 
-[백준_23032_](https://www.acmicpc.net/problem/23032)
+[백준_23032_서프라이즈](https://www.acmicpc.net/problem/23032)
 
 ### 📗 Idea & Algorithm
 
