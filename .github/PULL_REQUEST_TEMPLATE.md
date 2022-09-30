@@ -1,6 +1,6 @@
 ### 📕 Problem
 
-[프로그래머스_가장긴팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) 
+[프로그래머스_소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) 
 
 ### 📗 Idea & Algorithm
 
@@ -15,7 +15,7 @@
 
 ### 📕 Problem
 
-[프로그래머스_피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+[프로그래머스_입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 
 ### 📗 Idea & Algorithm
 
