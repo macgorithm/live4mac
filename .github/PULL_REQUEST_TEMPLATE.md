@@ -1,6 +1,6 @@
 ### 📕 Problem
 
-[프로그래머스_소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) 
+[leetcode_3Sum](https://leetcode.com/problems/3sum/) 
 
 ### 📗 Idea & Algorithm
 
@@ -15,7 +15,7 @@
 
 ### 📕 Problem
 
-[프로그래머스_입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+[프로그래머스_후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)
 
 ### 📗 Idea & Algorithm
 
