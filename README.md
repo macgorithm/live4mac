@@ -202,10 +202,6 @@ live4mac
 │   │    ├──week_1
 │   │    │    └──leetcode_15_3Sum
 │   │    │    └──프로그래머스_Lv2_후보키
-│   │    ├──week_2
-│   │    ├──week_3
-│   │    ├──week_4
-│   │    └──week_5
 │   ├──Nov
 │   │    ├──week_1
 │   │    ├──week_2
